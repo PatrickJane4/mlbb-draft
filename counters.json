@@ -1,0 +1,933 @@
+{
+ "Masha": [
+  "Chip",
+  "Lesley",
+  "Aamon",
+  "Eudora",
+  "Dyrroth"
+ ],
+ "Argus": [
+  "Dyrroth",
+  "Lunox",
+  "Helcurt",
+  "X.Borg",
+  "Khaleed"
+ ],
+ "Marcel": [
+  "Atlas",
+  "Chip",
+  "Sun",
+  "Faramis",
+  "Joy"
+ ],
+ "Diggie": [
+  "X.Borg",
+  "Alice",
+  "Valir",
+  "Obsidia",
+  "Fredrinn"
+ ],
+ "Khufra": [
+  "Alucard",
+  "Wanwan",
+  "Silvanna",
+  "Lolita",
+  "Vale"
+ ],
+ "Bruno": [
+  "Wanwan",
+  "Mathilda",
+  "Benedetta",
+  "Ling",
+  "Masha"
+ ],
+ "Floryn": [
+  "Marcel",
+  "Alice",
+  "X.Borg",
+  "Ling",
+  "Masha"
+ ],
+ "Minotaur": [
+  "Lolita",
+  "Silvanna",
+  "Khufra",
+  "Odette",
+  "Cyclops"
+ ],
+ "Valir": [
+  "Fredrinn",
+  "Balmond",
+  "Alice",
+  "Thamuz",
+  "Leomord"
+ ],
+ "Saber": [
+  "Natalia",
+  "Valentina",
+  "Yve",
+  "Ling",
+  "Nolan"
+ ],
+ "Rafaela": [
+  "Valir",
+  "Cici",
+  "Alice",
+  "Marcel",
+  "Balmond"
+ ],
+ "Irithel": [
+  "Yve",
+  "Chang'e",
+  "Mathilda",
+  "Wanwan",
+  "Benedetta"
+ ],
+ "Sun": [
+  "Harley",
+  "Jawhead",
+  "Phoveus",
+  "Layla",
+  "Lesley"
+ ],
+ "Aulus": [
+  "Lolita",
+  "Tigreal",
+  "Minsitthar",
+  "Faramis",
+  "Eudora"
+ ],
+ "Xavier": [
+  "Phoveus",
+  "Belerick",
+  "Marcel",
+  "Barats",
+  "X.Borg"
+ ],
+ "Aldous": [
+  "Gatotkaca",
+  "Helcurt",
+  "Diggie",
+  "X.Borg",
+  "Uranus"
+ ],
+ "Estes": [
+  "Faramis",
+  "Masha",
+  "Alice",
+  "Cici",
+  "Cyclops"
+ ],
+ "Lolita": [
+  "Cyclops",
+  "Edith",
+  "Floryn",
+  "Angela",
+  "Bane"
+ ],
+ "Fredrinn": [
+  "Alucard",
+  "Joy",
+  "Argus",
+  "Lunox",
+  "Hayabusa"
+ ],
+ "Obsidia": [
+  "Helcurt",
+  "Benedetta",
+  "Aldous",
+  "Hanzo",
+  "Yin"
+ ],
+ "Melissa": [
+  "Lolita",
+  "Alucard",
+  "Karina",
+  "Lesley",
+  "Paquito"
+ ],
+ "Carmilla": [
+  "Popol and Kupa",
+  "Lolita",
+  "Chip",
+  "Gloo",
+  "Minsitthar"
+ ],
+ "Edith": [
+  "Harith",
+  "Silvanna",
+  "Phoveus",
+  "Faramis",
+  "Alice"
+ ],
+ "Freya": [
+  "Masha",
+  "Yve",
+  "Khaleed",
+  "Harith",
+  "Sun"
+ ],
+ "Minsitthar": [
+  "Lolita",
+  "Karrie",
+  "Phoveus",
+  "Freya",
+  "Lukas"
+ ],
+ "Lunox": [
+  "Kaja",
+  "Gloo",
+  "Karina",
+  "Chip",
+  "Wanwan"
+ ],
+ "Ling": [
+  "X.Borg",
+  "Hanzo",
+  "Gloo",
+  "Wanwan",
+  "Ixia"
+ ],
+ "Kalea": [
+  "Yve",
+  "Chip",
+  "Lolita",
+  "Zhuxin",
+  "Arlott"
+ ],
+ "Gord": [
+  "Baxia",
+  "Chip",
+  "Lolita",
+  "Fredrinn",
+  "Faramis"
+ ],
+ "Zhask": [
+  "Faramis",
+  "Jawhead",
+  "Phoveus",
+  "Diggie",
+  "Odette"
+ ],
+ "Barats": [
+  "Argus",
+  "Silvanna",
+  "Phoveus",
+  "Brody",
+  "Eudora"
+ ],
+ "Bane": [
+  "Phoveus",
+  "Belerick",
+  "Lancelot",
+  "Baxia",
+  "Karrie"
+ ],
+ "Benedetta": [
+  "X.Borg",
+  "Alpha",
+  "Ixia",
+  "Hanzo",
+  "Luo Yi"
+ ],
+ "Hanabi": [
+  "Chip",
+  "Kalea",
+  "Saber",
+  "Akai",
+  "Popol and Kupa"
+ ],
+ "Natan": [
+  "Sun",
+  "Gloo",
+  "Zhask",
+  "Chip",
+  "Esmeralda"
+ ],
+ "Moskov": [
+  "Gloo",
+  "Joy",
+  "Yve",
+  "Fanny",
+  "Harith"
+ ],
+ "Dyrroth": [
+  "Uranus",
+  "Alice",
+  "Esmeralda",
+  "Aldous",
+  "Natalia"
+ ],
+ "Guinevere": [
+  "Julian",
+  "Lunox",
+  "Thamuz",
+  "Lylia",
+  "Angela"
+ ],
+ "Yve": [
+  "Lolita",
+  "Baxia",
+  "Alpha",
+  "Akai",
+  "Hanabi"
+ ],
+ "Kadita": [
+  "Lolita",
+  "Johnson",
+  "Yve",
+  "Ixia",
+  "Odette"
+ ],
+ "Odette": [
+  "Faramis",
+  "Kaja",
+  "Khaleed",
+  "Rafaela",
+  "Estes"
+ ],
+ "Cyclops": [
+  "Natalia",
+  "Joy",
+  "Wanwan",
+  "Akai",
+  "Mathilda"
+ ],
+ "Lukas": [
+  "Ling",
+  "Lancelot",
+  "Chip",
+  "Arlott",
+  "Rafaela"
+ ],
+ "Ixia": [
+  "Estes",
+  "Yve",
+  "Cyclops",
+  "Rafaela",
+  "Floryn"
+ ],
+ "Beatrix": [
+  "Estes",
+  "Yve",
+  "Edith",
+  "Diggie",
+  "Luo Yi"
+ ],
+ "Nolan": [
+  "Estes",
+  "Bane",
+  "Diggie",
+  "X.Borg",
+  "Melissa"
+ ],
+ "Cecilion": [
+  "Lolita",
+  "Phoveus",
+  "Baxia",
+  "Edith",
+  "Zhask"
+ ],
+ "Kagura": [
+  "Lolita",
+  "X.Borg",
+  "Silvanna",
+  "Hanzo",
+  "Helcurt"
+ ],
+ "Faramis": [
+  "Chip",
+  "Wanwan",
+  "Zhuxin",
+  "Gloo",
+  "Mathilda"
+ ],
+ "Belerick": [
+  "Zhask",
+  "Alucard",
+  "Obsidia",
+  "Kimmy",
+  "Miya"
+ ],
+ "Alice": [
+  "Chip",
+  "Faramis",
+  "Tigreal",
+  "Khufra",
+  "Phoveus"
+ ],
+ "Silvanna": [
+  "Chip",
+  "Aamon",
+  "Aldous",
+  "Floryn",
+  "Valentina"
+ ],
+ "Natalia": [
+  "Lolita",
+  "Hanzo",
+  "Ling",
+  "Xavier",
+  "Minsitthar"
+ ],
+ "Gloo": [
+  "Aamon",
+  "Johnson",
+  "Baxia",
+  "Chang'e",
+  "Nana"
+ ],
+ "Paquito": [
+  "X.Borg",
+  "Natalia",
+  "Wanwan",
+  "Helcurt",
+  "Natan"
+ ],
+ "Clint": [
+  "Lolita",
+  "Baxia",
+  "Karina",
+  "Zhuxin",
+  "Bruno"
+ ],
+ "Eudora": [
+  "Zilong",
+  "Floryn",
+  "Helcurt",
+  "Natalia",
+  "Rafaela"
+ ],
+ "Zetian": [
+  "Lolita",
+  "Natalia",
+  "Tigreal",
+  "Helcurt",
+  "Zilong"
+ ],
+ "Brody": [
+  "Karina",
+  "Irithel",
+  "Belerick",
+  "Natalia",
+  "Aldous"
+ ],
+ "Leomord": [
+  "Jawhead",
+  "Uranus",
+  "Lolita",
+  "Saber",
+  "Roger"
+ ],
+ "Yin": [
+  "Minsitthar",
+  "Yve",
+  "Alucard",
+  "Floryn",
+  "Diggie"
+ ],
+ "Badang": [
+  "Fanny",
+  "Zilong",
+  "Sun",
+  "Helcurt",
+  "Popol and Kupa"
+ ],
+ "Miya": [
+  "Saber",
+  "Mathilda",
+  "Kalea",
+  "Guinevere",
+  "Silvanna"
+ ],
+ "Terizla": [
+  "Lolita",
+  "Vale",
+  "Faramis",
+  "Melissa",
+  "Popol and Kupa"
+ ],
+ "Zhuxin": [
+  "Lolita",
+  "Roger",
+  "Obsidia",
+  "Chang'e",
+  "Lapu-Lapu"
+ ],
+ "Kaja": [
+  "Valir",
+  "Luo Yi",
+  "Akai",
+  "Grock",
+  "Pharsa"
+ ],
+ "Joy": [
+  "Luo Yi",
+  "X.Borg",
+  "Johnson",
+  "Natalia",
+  "Sun"
+ ],
+ "Hirara": [
+  "Lolita",
+  "Yin",
+  "Karina",
+  "Hanzo",
+  "Alpha"
+ ],
+ "Angela": [
+  "Alice",
+  "Marcel",
+  "Lancelot",
+  "Balmond",
+  "X.Borg"
+ ],
+ "Julian": [
+  "Baxia",
+  "Mathilda",
+  "Esmeralda",
+  "Faramis",
+  "Alice"
+ ],
+ "Sora": [
+  "Estes",
+  "Chip",
+  "Popol and Kupa",
+  "Karina",
+  "Rafaela"
+ ],
+ "Akai": [
+  "Sora",
+  "Mathilda",
+  "Silvanna",
+  "Wanwan",
+  "Minsitthar"
+ ],
+ "Popol and Kupa": [
+  "Baxia",
+  "Lolita",
+  "Chip",
+  "Mathilda",
+  "Phoveus"
+ ],
+ "Alucard": [
+  "Yve",
+  "Faramis",
+  "Natalia",
+  "Cyclops",
+  "Saber"
+ ],
+ "Suyou": [
+  "Natalia",
+  "Masha",
+  "Baxia",
+  "Sun",
+  "Lolita"
+ ],
+ "Khaleed": [
+  "Yin",
+  "Zilong",
+  "Grock",
+  "Chip",
+  "Popol and Kupa"
+ ],
+ "Hanzo": [
+  "Luo Yi",
+  "Yve",
+  "Akai",
+  "Aurora",
+  "Ixia"
+ ],
+ "Aamon": [
+  "Cici",
+  "Hilda",
+  "Claude",
+  "Chip",
+  "Marcel"
+ ],
+ "Karrie": [
+  "Alice",
+  "Harith",
+  "Balmond",
+  "Thamuz",
+  "Hilda"
+ ],
+ "Vale": [
+  "Baxia",
+  "Odette",
+  "Estes",
+  "Silvanna",
+  "Yin"
+ ],
+ "Gusion": [
+  "Yve",
+  "Aamon",
+  "X.Borg",
+  "Natalia",
+  "Novaria"
+ ],
+ "X.Borg": [
+  "Phoveus",
+  "Barats",
+  "Martis",
+  "Baxia",
+  "Terizla"
+ ],
+ "Atlas": [
+  "Eudora",
+  "Fredrinn",
+  "Baxia",
+  "Lolita",
+  "Layla"
+ ],
+ "Uranus": [
+  "Faramis",
+  "Diggie",
+  "Yin",
+  "Marcel",
+  "Argus"
+ ],
+ "Ruby": [
+  "Joy",
+  "Gloo",
+  "Sun",
+  "Masha",
+  "Chip"
+ ],
+ "Harley": [
+  "Hanzo",
+  "Alice",
+  "Melissa",
+  "Gatotkaca",
+  "Phoveus"
+ ],
+ "Harith": [
+  "Chip",
+  "Irithel",
+  "Uranus",
+  "Chang'e",
+  "Khaleed"
+ ],
+ "Karina": [
+  "Natalia",
+  "Helcurt",
+  "Lolita",
+  "Kimmy",
+  "Marcel"
+ ],
+ "Phoveus": [
+  "Harith",
+  "Wanwan",
+  "Valentina",
+  "Freya",
+  "Khaleed"
+ ],
+ "Lesley": [
+  "Baxia",
+  "Marcel",
+  "Bruno",
+  "Claude",
+  "Gatotkaca"
+ ],
+ "Yu Zhong": [
+  "Chip",
+  "Silvanna",
+  "Popol and Kupa",
+  "Gloo",
+  "Alpha"
+ ],
+ "Aurora": [
+  "Lolita",
+  "Natan",
+  "Popol and Kupa",
+  "Alpha",
+  "Fredrinn"
+ ],
+ "Yi Sun-shin": [
+  "Wanwan",
+  "Akai",
+  "Balmond",
+  "Khufra",
+  "Yin"
+ ],
+ "Selena": [
+  "Yve",
+  "Joy",
+  "Benedetta",
+  "Helcurt",
+  "Xavier"
+ ],
+ "Hilda": [
+  "Granger",
+  "Helcurt",
+  "Harley",
+  "Terizla",
+  "Novaria"
+ ],
+ "Novaria": [
+  "Baxia",
+  "Diggie",
+  "Bane",
+  "Valir",
+  "Phoveus"
+ ],
+ "Hayabusa": [
+  "Aamon",
+  "Mathilda",
+  "Yve",
+  "Baxia",
+  "Cecilion"
+ ],
+ "Vexana": [
+  "Lolita",
+  "Gloo",
+  "Zhask",
+  "Baxia",
+  "Granger"
+ ],
+ "Claude": [
+  "Ixia",
+  "Lolita",
+  "Harith",
+  "Gord",
+  "Balmond"
+ ],
+ "Cici": [
+  "Thamuz",
+  "Balmond",
+  "Hylos",
+  "Alice",
+  "Leomord"
+ ],
+ "Thamuz": [
+  "Faramis",
+  "Odette",
+  "Alice",
+  "Gusion",
+  "Alucard"
+ ],
+ "Layla": [
+  "Faramis",
+  "Rafaela",
+  "Diggie",
+  "Edith",
+  "Zhuxin"
+ ],
+ "Kimmy": [
+  "Sun",
+  "Hylos",
+  "Roger",
+  "Yin",
+  "Akai"
+ ],
+ "Johnson": [
+  "Zilong",
+  "Valentina",
+  "Ixia",
+  "Yin",
+  "Helcurt"
+ ],
+ "Arlott": [
+  "Zhuxin",
+  "Natan",
+  "Cici",
+  "Faramis",
+  "Mathilda"
+ ],
+ "Alpha": [
+  "Phoveus",
+  "Hilda",
+  "Baxia",
+  "Saber",
+  "Odette"
+ ],
+ "Jawhead": [
+  "Baxia",
+  "Natalia",
+  "Luo Yi",
+  "Mathilda",
+  "Saber"
+ ],
+ "Chip": [
+  "Yve",
+  "Leomord",
+  "Benedetta",
+  "Terizla",
+  "Alucard"
+ ],
+ "Lylia": [
+  "Lolita",
+  "Chip",
+  "Hanabi",
+  "Grock",
+  "Harith"
+ ],
+ "Martis": [
+  "Jawhead",
+  "Saber",
+  "Chip",
+  "Pharsa",
+  "Khaleed"
+ ],
+ "Lapu-Lapu": [
+  "Luo Yi",
+  "Argus",
+  "Miya",
+  "Wanwan",
+  "Phoveus"
+ ],
+ "Hylos": [
+  "Faramis",
+  "Lukas",
+  "Layla",
+  "Leomord",
+  "Fredrinn"
+ ],
+ "Wanwan": [
+  "Yin",
+  "Ixia",
+  "Alpha",
+  "Thamuz",
+  "Hanabi"
+ ],
+ "Esmeralda": [
+  "Mathilda",
+  "Lolita",
+  "Marcel",
+  "Phoveus",
+  "Aldous"
+ ],
+ "Pharsa": [
+  "Lolita",
+  "Diggie",
+  "Harith",
+  "Luo Yi",
+  "Melissa"
+ ],
+ "Helcurt": [
+  "Luo Yi",
+  "X.Borg",
+  "Xavier",
+  "Valir",
+  "Diggie"
+ ],
+ "Roger": [
+  "Chip",
+  "Odette",
+  "Chang'e",
+  "Harley",
+  "Silvanna"
+ ],
+ "Luo Yi": [
+  "Valentina",
+  "Faramis",
+  "Edith",
+  "Estes",
+  "Zilong"
+ ],
+ "Baxia": [
+  "Chip",
+  "Zhask",
+  "Wanwan",
+  "Odette",
+  "Grock"
+ ],
+ "Grock": [
+  "Wanwan",
+  "Vale",
+  "Fredrinn",
+  "Odette",
+  "Vexana"
+ ],
+ "Chang'e": [
+  "Baxia",
+  "Diggie",
+  "Lancelot",
+  "Martis",
+  "Yve"
+ ],
+ "Nana": [
+  "Lolita",
+  "Baxia",
+  "Estes",
+  "Odette",
+  "Alucard"
+ ],
+ "Tigreal": [
+  "Estes",
+  "Zilong",
+  "Lesley",
+  "Lolita",
+  "Franco"
+ ],
+ "Balmond": [
+  "Saber",
+  "Gatotkaca",
+  "Chip",
+  "Barats",
+  "Tigreal"
+ ],
+ "Zilong": [
+  "X.Borg",
+  "Cici",
+  "Minsitthar",
+  "Fanny",
+  "Estes"
+ ],
+ "Chou": [
+  "X.Borg",
+  "Beatrix",
+  "Luo Yi",
+  "Fanny",
+  "Ixia"
+ ],
+ "Valentina": [
+  "Lolita",
+  "Irithel",
+  "Zhuxin",
+  "Chang'e",
+  "Carmilla"
+ ],
+ "Gatotkaca": [
+  "Lolita",
+  "Chip",
+  "Ruby",
+  "Barats",
+  "Terizla"
+ ],
+ "Mathilda": [
+  "Natalia",
+  "Yin",
+  "Lylia",
+  "Wanwan",
+  "Joy"
+ ],
+ "Granger": [
+  "Karina",
+  "Diggie",
+  "Estes",
+  "Baxia",
+  "Melissa"
+ ],
+ "Fanny": [
+  "Yve",
+  "Gloo",
+  "Granger",
+  "Chip",
+  "Gord"
+ ],
+ "Lancelot": [
+  "Alpha",
+  "Lolita",
+  "Aurora",
+  "Johnson",
+  "Atlas"
+ ],
+ "Franco": [
+  "Harith",
+  "Angela",
+  "Zhuxin",
+  "Fanny",
+  "Benedetta"
+ ]
+}
